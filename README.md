@@ -1,7 +1,9 @@
 **DeviceHive Android Gateway for BLE devices**
 --------------------------------
 
-This is demo for Bluetooth Low Energy(BLE) devices makes it possible to scan & connect with BLE devices. It also saves BLE raw data to local database & calls api to save database to cloud.
+This is demo for Bluetooth Low Energy(BLE) devices makes it possible to scan & connect with BLE devices. It also saves BLE raw data to local database & calls api to save database to cloud.<br>
+
+[Demo Video](https://drive.google.com/file/d/1HxOtPsGNLujUC6DqwYlv0zBvQbbGR5Bp/view?usp=sharing)<br>
 
 **Setup**
 ==================
